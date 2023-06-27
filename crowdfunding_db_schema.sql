@@ -1,3 +1,6 @@
+CREATE DATABASE crowdfunding_db
+;
+
 CREATE TABLE "campaign" (
     "cf_id" INT   NOT NULL,
     "contact_id" INT   NOT NULL,
